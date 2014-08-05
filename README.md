@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Coursera datasciene track
+Coursera datascience track
